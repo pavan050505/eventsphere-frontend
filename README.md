@@ -174,12 +174,6 @@ http://localhost:5173
 
 ---
 
-## 💼 Resume Description
-
-> **EventSphere** – A SaaS-style event management platform built using React and Tailwind CSS, featuring event discovery, organizer dashboards, authentication flows, responsive UI, and India-localized content.
-
----
-
 ## 🧑‍💻 Author
 
 **Pavan Bhosle**  
