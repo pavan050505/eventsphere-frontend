@@ -6,6 +6,15 @@ This project focuses on **frontend architecture, UI/UX excellence, and real-worl
 
 ---
 
+## 🎥 Demo Video
+
+A quick walkthrough of the EventSphere SaaS frontend showcasing event discovery,
+dashboards, authentication flow, and responsive UI.
+
+Uploading EventSphereDemo.mp4
+
+
+
 ## 🧠 Project Overview
 
 EventSphere simulates a **real-world production SaaS application**, featuring:
